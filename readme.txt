@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks change.
 Creating a new branch is quick And simple.
 Creating a new Issue-001.
+Creating a new bug branch.
